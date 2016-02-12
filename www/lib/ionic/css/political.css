@@ -1,0 +1,18 @@
+.title.title-center.header-item{
+  background-color: #886aea;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+.loginAni{
+  background-size: cover!important;
+  background: url(../../../img/bg.gif) no-repeat center;
+}
+.header-logo{
+  background: url(../../../img/360_logopequeno.png) no-repeat left;
+  background-size: 100px;
+  text-align: right!important;
+}
+.bg-gray{
+  background-color: #e5e5e5;
+}
